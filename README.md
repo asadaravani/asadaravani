@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @asadaravani
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java programming projects
-- 📫 How to reach t.me @asadaravani
+# 👋 Hi, I’m Asad
 
-<!---
-asadaravani/asadaravani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a passionate Java developer and currently learning and building projects in **Java**, **Spring Boot** and **etc**.  
+
+## 👀 Interests
+- Coding and software development
+- Backend development with Java
+- Ai and automation
+- Learning new technologies and frameworks
+
+## 🌱 Currently Learning
+- Advanced **Java** concepts
+- **Spring Boot** & RESTful API development
+- Best practices in software engineering
+
+## 💞️ Looking to Collaborate On
+- Java programming projects
+- Backend or full-stack development projects
+- Open-source contributions for learning and practice
+
+## 📫 How to Reach Me
+- LinkedIn: [@asadaravani]([https://t.me/asadaravani](https://www.linkedin.com/in/asadaravani/))
+- Email: asadaravani@gmail.com
+
